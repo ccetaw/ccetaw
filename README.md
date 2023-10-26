@@ -2,9 +2,9 @@
 
 
 - 🌱 My name is Jingyu Wang, currently a Data Science Master student at ETHz
-- 📐 C++ / Python / MATLAB / Markdown / Latex / SQL
+- 📐 C++ / Python / SQL / MATLAB / Latex / BashScript
 - 🧷 PyTorch / [Taichi](https://www.taichi-lang.org/) / [libigl](https://libigl.github.io/)
-- 💖 Computer Graphics / Computer Vision / Deep Learning / Physics Simulation 
+- 💖 Computer Graphics / Computer Vision / Deep Learning / Data Science / Physics Simulation 
 - 🔭 Bring real physics world into cyber space
 
 <br/>
