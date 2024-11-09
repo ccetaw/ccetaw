@@ -17,6 +17,7 @@ also no problem for me.
 
 
 ---
+
 <p align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
@@ -30,6 +31,7 @@ also no problem for me.
     <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="latex" alt="latex" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40" height="40"/>&nbsp;
 </p>
+
 ---
 
 <p align="center" style="height: 180px;">
@@ -43,4 +45,5 @@ also no problem for me.
     <img src="https://profile-counter.glitch.me/ccetaw/count.svg"/>
   </div> 
 </p>
+
 ---
