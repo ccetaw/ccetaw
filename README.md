@@ -12,8 +12,7 @@
 </h1>
 
 My name is Jingyu Wang, currently a master's student in Data Science at ETH Zurich. Previously I obtained my bachelor's degree in Physics from Université Claude Bernard Lyon 1. 
-I am passionate about Machine Learning/Deep Learning, with a focus on Computer Vision/Graphics. Classical tasks such as regression, classification and time series prediction are 
-also no problem for me. 
+I am passionate about Machine Learning/Deep Learning, with a focus on Computer Vision/Graphics.  Traditional ML, time series, NLP, and LLM/VLM are also interesting to me.
 
 
 ---
