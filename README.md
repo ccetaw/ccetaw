@@ -31,18 +31,4 @@ I am passionate about Machine Learning/Deep Learning, with a focus on Computer V
     <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40" height="40"/>&nbsp;
 </p>
 
----
 
-<p align="center" style="height: 180px;">
-    <img style="height:10rem" src="https://github-readme-stats.vercel.app/api?username=ccetaw&title_color=fff&text_color=fff&show_icons=true&theme=highcontrast" />
-    <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=ccetaw&theme=highcontrast&show_icons=true&border=e4e2e2" />
-</p>
-
-<p align="center"> 
-  <div align="center">Visitor count</div>
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/ccetaw/count.svg"/>
-  </div> 
-</p>
-
----
